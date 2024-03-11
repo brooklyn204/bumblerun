@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\brook\Documents\projects\Computer Graphics Games\bubbleGame\bubbleGame\Source\main.cpp(177,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  bubbleGame.vcxproj -> C:\Users\brook\Documents\projects\Computer Graphics Games\bubbleGame\x64\Debug\bubbleGame.exe

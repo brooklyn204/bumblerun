@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\brook\\documents\\projects\\computer graphics games\\bubblegame\\bubblegame\\include\\glad\\glad.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\brook\\documents\\projects\\computer graphics games\\bubblegame\\bubblegame\\include\\khr\\khrplatform.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
