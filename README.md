@@ -1,1 +1,1 @@
-# bumblerun
+BumbleRun is a single player infinite runner game written in C++ using OpenGL. It was created as a midterm project for my Computer Graphics and Games class in Spring 2024 to practice pure computer graphics concepts.
